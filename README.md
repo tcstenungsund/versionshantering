@@ -5,13 +5,14 @@ PRs / branches som ej har mergats kommer ej räknas.
 
 ## Uppgift 1
 
-Skriv en slogan om Kenneth
+Kenneth kan stava
 
 ## Uppgift 2
 
 Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning vad den gör. Flest poäng för den grupp som har flest HTML taggar med korrekta beskrivningar i bokstavsordning. Fyll på denna lista
 - A, länk till annat dokument eller inom samma dokument
 - P, paragraph med text
+- X, okänd
 
 
 ---
